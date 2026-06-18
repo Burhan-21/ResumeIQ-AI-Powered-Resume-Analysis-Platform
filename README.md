@@ -1,8 +1,6 @@
 # ResumeIQ — AI-Powered Resume Analysis Platform
 
-### Live Application
 
-[Add Deployment Link]
 
 ---
 
